@@ -1,0 +1,12 @@
+DIGSITE asset credits
+
+Golden shovel pack: supplied by the site owner.
+Golden quarry illustration: generated for DIGSITE.
+Pikachu and Eevee animated GLB models: https://github.com/06wj/pokemon/tree/master/public/models (025 and 133).
+Diglett and Dugtrio meshes and animation: locally authored for DIGSITE.
+Character illustrations: https://github.com/PokeAPI/sprites/tree/master/sprites/pokemon/other/official-artwork (25, 50, 51, 133).
+Card artwork: https://images.pokemontcg.io/ (base1/4, base1/10, base1/58, swsh7/215).
+Pokémon characters and associated assets belong to Nintendo, Creatures Inc., GAME FREAK inc., and their respective rights holders. The model repository does not grant rights to these assets. DIGSITE is independent and is not endorsed by The Pokémon Company.
+Three.js r170, GLTFLoader, and BufferGeometryUtils: https://github.com/mrdoob/three.js/tree/r170 — MIT; see THREE-LICENSE.txt.
+Fonts: Barlow Condensed, Space Grotesk, IBM Plex Mono — see the three included LICENSE-*.txt files.
+Collector Crypt integration is planned; no endorsement or active integration is asserted.
